@@ -1,3 +1,6 @@
+/*Ssabriin Osman Bule
+    C6240144 */
+
 import java.util.Scanner;
 
     public class EVCPlus {
